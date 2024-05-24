@@ -20,6 +20,15 @@ Experience the live version of the application here:
 - **Frontend**: HTML5, CSS3, JavaScript
 - **Hosting/Environment**: Replit, now mirrored on GitHub for version control.
 
+## Screenshots
+Here are some screenshots of the project:
+
+<img src="Screenshots/img1.png" width="300"> <br>
+<img src="Screenshots/img2.png" width="300">
+<img src="Screenshots/img3.png" width="300">
+<img src="Screenshots/img4.png" width="300">
+
+
 ## Local Development
 
 Follow these instructions to set up the project locally for development and testing purposes.
